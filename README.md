@@ -1,1 +1,1 @@
-project on binatry tress
+project on binary tress
